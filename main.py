@@ -11,7 +11,7 @@ root.title("Phone Number Tracker")
 root.geometry("385x594+300+200")
 root.resizable(False,False)
 root.configure(bg='#96BFFF')
-key="e8319ea290cd42538872f962b6bf59f3"
+key="6922d351c04f356fc8c97e8245fc022d"
 
 def track():
     enter_nb=entry.get()
